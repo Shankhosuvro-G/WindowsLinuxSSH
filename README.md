@@ -6,7 +6,7 @@ Successfully connected to the LInux VM using ssh from Windows host.
 
 ![image](https://github.com/Shankhosuvro-G/WindowsLinuxSSL/assets/98182979/3aee7151-91d6-463b-abf8-4469b4e2367d)
 
-Executed the program and all the contents of the files present in the directory are encrypted.
+Executed the encrypting algorithm and all the contents of the files present in the directory are encrypted.
 
 ![image](https://github.com/Shankhosuvro-G/WindowsLinuxSSL/assets/98182979/02b54c2a-d5ad-4b6f-91cf-da72efb316b7)
 
