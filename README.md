@@ -1,5 +1,5 @@
 # WindowsLinuxSSH
-This project involves setting up a secure SSH connection between a Windows host and a Linux virtual machine (VM), and implementing data encryption and decryption using Python with the cryptography library. 
+This project involves setting up a secure SSH connection between a Windows host and a Linux virtual machine (VM), and implementing data encryption and decryption using Python with the help of cryptography library. 
 ![image](https://github.com/Shankhosuvro-G/WindowsLinuxSSL/assets/98182979/7609298d-e144-4713-b3bd-91fa6131b38d)
 
 Successfully connected to the LInux VM using ssh from Windows host.
