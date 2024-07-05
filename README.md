@@ -30,7 +30,7 @@ This project focuses on setting up a secure SSH connection between a Windows hos
 - `voldemort.py`: Sample file (replace with actual files to encrypt/decrypt).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Execution
 
